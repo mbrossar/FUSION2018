@@ -1,4 +1,4 @@
-Matlab code used for the paper "Unscented Kalman Filtering on Lie Groups for Fusion of IMU and Monocular Vision", submitted to International Conference on Robotics and Automation (ICRA) 2018. **[PDF](http://)**
+Matlab code used for the paper "Unscented Kalman Filtering on Lie Groups for Fusion of IMU and Monocular Vision", submitted to International Conference on Robotics and Automation (ICRA) 2018. **[PDF](https://hal.archives-ouvertes.fr/hal-01588669/document)**
 
 EUROC datasets are available **[here](http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)**.
 
